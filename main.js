@@ -76,4 +76,6 @@ ScrollReveal({
 #services .card
 #about,
 #about header,
-#about content`)
+#about content,
+#about col-a,
+#about col-b`)
